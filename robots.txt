@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sdsfsfsfsf.github.io/sitemap.xml
+Sitemap: https://knowledgehubhq.github.io/sitemap.xml
